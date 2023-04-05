@@ -4,9 +4,10 @@
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     </h1>
    <br>
- <br>   
-
-<img align='right' alt="mvfernando-avatarpic" src="https://lh3.googleusercontent.com/fife/AAWUweXrYG1iKk8JhRx0IxNyW51lP7iFbZBOWiJflg1BwdBbyE6N9o5speZ4v2-p5IfZTL1YrrsCLG0RgxhOHTxfqxTezAz-kOGGtWjJs4eExY6hEeWUJO6ybambvx_RQKaeUr023EYIogetI8XgSIU8tbV8ItMssnrBqrDhtLh2nd57AYLaq7RXnyQ3wDwkJiWARPg8n00rvggxFv0fGxfO65ljzjpNM38H2T7L4sQihPaQVkEpjFoWfjZAnO46zgzxRVICDOmaUh532V8ZZhbOKksr6u4qWS_8_pjjtoCHhLThTLSwRvKRsw4P7pnjvr5ueY2CtrCNeY7wSqoc8fugaZdbF7uNfkKNVUZNzrxUg_31mEZ2VgeElnU5URNz8ypCqNnppde_ObLVhqOUIFWSY4THwXTfgaeyAjbbwqrnnTsqguqphyW_Was7jjBb2-uj96OqbN0zMBrzg8CCzoGfoBzgmYJZnd2dJVMnUetcSKSX50tZSNASqnY35_yL4f4TBy_5WdId89zoC7AjUKizFfqF7pyLvpaPG1-y1sU8zU8pQSkFDLZNk9G7UotwIAw1ieS91uDi_Xtw4bzDJMuZYQb_bxTjrxsU8OtxkU8cyVWu0BmbT4Q2i_VKFyDbtwzKU6_A5phXqFiioiC7iP1BrN45vAorYwne1lW0qZJTsDo8qF83B-frCtQnVVAzlktWSoXfC9sCZ0e4frtSElJ8WTjDU63e38yBoLB5BVNGoVW_d4RFQyctyZxmOyT-OIbfH70rjsXntZDZ5nkhEOw=w200-h190-p-k-nu" height="150" style="border-radius:50%;">
+ <br> 
+ 
+<!-- 
+<img align='right' alt="mvfernando-avatarpic" src=" link da img" height="150" style="border-radius:50%;">
 
 **Mvuemba Fernando**, conhecido como **Elio Fernandes**. Software Developer :computer: & Web designer, estudante de Técnologias voltadas a solucionar problemas. Bem, a questão é que estou focado na solução, e trabalho com o que melhor resolve o problema. Minhas bases de programação e experiência proporcionam tanta flexibilidade, então posso trabalhar com praticamente qualquer linguagem ou tecnologia desde que resolvam o problema da melhor forma e no menor tempo possível...
 <br> 

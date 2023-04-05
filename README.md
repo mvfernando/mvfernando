@@ -7,7 +7,7 @@
  <br> 
  
 <!-- 
-<img align='right' alt="mvfernando-avatarpic" src=" link da img" height="150" style="border-radius:50%;">
+<img align='right' alt="mvfernando-avatarpic" src=" link da img" height="150" style="border-radius:50%;">-->
 
 **Mvuemba Fernando**, conhecido como **Elio Fernandes**. Software Developer :computer: & Web designer, estudante de Técnologias voltadas a solucionar problemas. Bem, a questão é que estou focado na solução, e trabalho com o que melhor resolve o problema. Minhas bases de programação e experiência proporcionam tanta flexibilidade, então posso trabalhar com praticamente qualquer linguagem ou tecnologia desde que resolvam o problema da melhor forma e no menor tempo possível...
 <br> 

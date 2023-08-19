@@ -1,6 +1,6 @@
   <br>
     <h1>
-        Olá<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! Estou feliz que você está verificando meu perfil.
+        Olá<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi,
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     </h1>
    <br>
@@ -9,7 +9,7 @@
 <!-- 
 <img align='right' alt="mvfernando-avatarpic" src=" link da img" height="150" style="border-radius:50%;">-->
 
-**Mvuemba Fernando**, conhecido como **Elio Fernandes**. Software Developer :computer: , Product Designer e estudante de Técnologias voltadas a solucionar problemas. Bem, a questão é que estou focado na solução, e trabalho com o que melhor resolve o problema. Minhas bases de programação e experiência proporcionam tanta flexibilidade, então posso trabalhar com praticamente qualquer linguagem ou tecnologia desde que resolvam o problema da melhor forma e no menor tempo possível...
+**Mvuemba Fernando, known as Elio Fernandes. Software Developer 💻 , Product Designer and student of Technologies aimed at solving problems. Well, the thing is, I'm focused on the solution, and I work with what best solves the problem. My programming background and experience provide so much flexibility, so I can work with almost any language or technology as long as it solves the problem in the best way and in the shortest possible time...
 <br> 
 
 <!-- Quando criar o código no terminal ativar essa sessão
@@ -24,7 +24,7 @@ npx mvfern
 **👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 -->
 
-### 👨🏻‍💻 Skill & Tecnologias:
+### 👨🏻‍💻 Skill & Technologies:
 
 ```
 const mvfer = {
@@ -48,12 +48,12 @@ const mvfer = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications" "Mobile first"],
     currentFocus: "Web and Mobile developer",
-    funFact: "Programar é como fazer amor "
+    funFact: "Programming is like making love"
 };
 ```
 <br> 
 
-### 🛠️ Ferramentas:
+### 🛠️ Tools:
 
 <img title="Vs Code" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Vs Code" width="40" height="40"/>|<img title="Insomnia" alt="Insomnia" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" alt="git" width="40" height="40"/>|<img title="Flutter" alt="Flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>|<img title= "Elixir" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="azure" width="40" height="40"/>| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img title="NodeJs" alt="NodeJs" width="40px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">| <img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png"> 
 
@@ -62,7 +62,7 @@ const mvfer = {
 
 ### 🚀 Portfolio:
 
-> *Processando...*
+> *Processing...*
 
 <!--
   <a href="https://github.com/mvfernando">
@@ -91,7 +91,7 @@ Ativar quando começar a colocar projetos novos
   
 <!--
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Adoro me conectar com pessoas diferentes</b>, então se você quiser dizer <b>oi, ficarei feliz em conhecê-lo mais!</b> 😊</em> -->
-### 📞 Contactos: 
+### 📞 Contacts: 
 
 <div> 
   <a href = "mailto:mvuembafernandosb28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

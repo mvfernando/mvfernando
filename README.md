@@ -45,7 +45,6 @@ const mvfer = {
         devOps: ["Azure", "Docker"],
         databases: ["MySql", "Sql", "PostgreSql"],
 
-    code: [],
         misc: ["Firebase", "Socket.IO", "Elixir", "C#", "DevExpress Report", "SQLite", "Prisma", "Aspenet Core", ".NET Core", "Web API", "PHP", "Flutter", "Javascript"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications" "Mobile first"],

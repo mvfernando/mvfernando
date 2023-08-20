@@ -28,15 +28,15 @@ npx mvfern
 
 ```
 const mvfer = {
-    pronouns: "Ele" | "Eles",
-    code: ["PHP", ".Net", "C#","Flutter", "Html5", "Css3", "Javascript"],
-    askMeAbout: ["Full Stack Developer", "App dev", "Design Gráfico", "Criador de Conteudo", "Marketing Digital"],
+    pronouns: "he" | "they",
+    askMeAbout: ["Software Enginer", "Product Designer", "Content creator"],
     technologies: {
         FrontEnd: {
-            C#: ["WPF", "WCF"]
+            HTML5, CSS3, React.Js, Typescript, Vue.Js
         },
         backEnd: {
-            Php: ["Laravel", "CodeIgniter"],
+            Node.js: ["Nest.js", "Express"],
+            Php: ["Laravel"],
             Elixir: ["Phoenix"]
         },
         mobileApp: {
@@ -44,7 +44,9 @@ const mvfer = {
         },
         devOps: ["Azure", "Docker"],
         databases: ["MySql", "Sql", "PostgreSql"],
-        misc: ["Firebase", "Socket.IO", "Elixir", "Vue.Js", "DevExpress Report", "Aspenet Core", ".NET Core", "Web API"]
+
+    code: [],
+        misc: ["Firebase", "Socket.IO", "Elixir", "C#", "DevExpress Report", "SQLite", "Prisma", "Aspenet Core", ".NET Core", "Web API", "PHP", "Flutter", "Javascript"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications" "Mobile first"],
     currentFocus: "Web and Mobile developer",

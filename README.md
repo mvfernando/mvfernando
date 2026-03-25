@@ -9,57 +9,129 @@
 <!-- 
 <img align='right' alt="mvfernando-avatarpic" src=" link da img" height="150" style="border-radius:50%;">-->
 
-Mvuemba Fernando, known as Elio Fernandes. Software engineer, Product Designer and student of Technologies aimed at solving problems. Well, the thing is, I'm focused on the solution, and I work with what best solves the problem. My programming background and experience provide so much flexibility, so I can work with almost any language or technology as long as it solves the problem in the best way and in the shortest possible time...
+Mvuemba Fernando, known as Elio Fernandes.
+Founder & Product Builder focused on designing systems that solve real-world problems.
+
+I started as a full-stack developer and evolved into building products and operational systems.
+Today, I focus on structure, not just code — using the right tools and technologies to deliver solutions efficiently.
+
+I work across web, mobile and backend, and I’m currently deepening my focus on AI and automation as leverage for building better systems.
+
+I don’t optimize for tech stacks.
+I optimize for outcomes.
 <br> 
-
-<!-- Quando criar o código no terminal ativar essa sessão
-### 📫 Sobre mim: terminal
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-👇 Hit in your console or terminal to connect with me.
-```bash
-npx mvfern
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
--->
 
 ### Skill & Technologies:
 
 ```
 const mvfer = {
     pronouns: "he" | "they",
-    askMeAbout: ["Software Enginer", "Product Designer", "Content creator"],
-    technologies: {
-        FrontEnd: {
-            HTML5, CSS3, React.Js, Typescript, Vue.Js
-        },
-        backEnd: {
-            Node.js: ["Nest.js", "Express"],
-            Php: ["Laravel"],
-            Elixir: ["Phoenix"]
-        },
-        mobileApp: {
-            Dart: ["Flutter"]
-        },
-        devOps: ["Azure", "Docker"],
-        databases: ["MySql", "Sql", "PostgreSql"],
 
-        misc: ["Firebase", "Socket.IO", "Elixir", "C#", "DevExpress Report", "SQLite", "Prisma", "Aspenet Core",
-        ".NET Core", "Web API", "PHP", "Flutter", "Javascript"]
+    role: "Founder | ProductMogger | AI & Automation Engineering",
+
+    positioning: [
+        "System thinker",
+        "Execution architect",
+        "Builder of builders"
+    ],
+
+    askMeAbout: [
+        "Product Systems",
+        "AI & Automation",
+        "Startup Execution",
+        "Asset-based Thinking"
+    ],
+
+    technologies: {
+        frontend: [
+            "HTML5",
+            "CSS3",
+            "TypeScript",
+            "React.js",
+            "Next.js",
+        ],
+
+        backend: {
+            python,
+            javascript: ["Node.js", "NestJS", "Express"],
+            php: ["Laravel"],
+            dotnet: [".NET Core", "ASP.NET Core"],
+            elixir: ["Phoenix (basic exposure)"]
+        },
+
+        mobile: [
+            "Flutter (Dart)"
+        ],
+
+        databases: [
+            "PostgreSQL",
+            "MySQL",
+            "SQLite"
+        ],
+
+        devops: [
+            "Docker",
+            "Azure",
+            "CI/CD basics"
+        ],
+
+        tools: [
+            "Firebase",
+            "Prisma",
+            "Socket.IO",
+            "REST APIs",
+            "WebSockets"
+        ]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications" "Mobile first"],
-    currentFocus: "Web and Mobile developer",
-    funFact: "Programming is like making love"
+
+    ai_automation: {
+        current_focus: [
+            "AI-assisted development (Claude Code, Cursor, Lovable, etc.)",
+            "Prompt engineering (structured, system-level)",
+            "Automation workflows", "OpenClaw".
+            "Early-stage agent thinking"
+        ],
+
+        direction: [
+            "AI system design",
+            "Process automation",
+            "Agent-based architectures",
+            "AI applied to operations"
+        ]
+    },
+
+    architecture: [
+        "System design thinking",
+        "API-first architecture",
+        "Scalable backend services",
+        "Mobile-first systems",
+        "Modular product architecture"
+    ],
+
+    product: [
+        "MVP development",
+        "0→1 product building",
+        "Startup validation systems",
+        "Operational product design"
+    ],
+
+    currentFocus: [
+        "Building Flix Home (Proptech asset-first system)",
+        "Building Painstack.ai (problem-first system)",
+        "Transition to AI & Automation Engineering",
+        "Designing real-world operational systems"
+    ],
+
+    philosophy: [
+        "I don’t build apps. I build systems.",
+        "Problems first, ideas second.",
+        "Prevention over reaction.",
+        "Structure beats speed."
+    ],
+
+    funFact: "Building systems is more addictive than writing code."
 };
 ```
-<br> 
-
-### Tools:
-
-<img title="Vs Code" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Vs Code" width="40" height="40"/>|<img title="Insomnia" alt="Insomnia" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" alt="git" width="40" height="40"/>|<img title="Flutter" alt="Flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>|<img title= "Elixir" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" alt="azure" width="40" height="40"/>| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img title="NodeJs" alt="NodeJs" width="40px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">| <img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png"> 
-
-
 <br> 
 
 <!--

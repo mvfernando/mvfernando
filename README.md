@@ -1,4 +1,4 @@
-<h1 align="left">I build. I ship. I iterate.🚀 </h1>
+<h1 align="left">I build. I ship. I iterate.</h1>
 
 <p>Founder and engineer building products, AI systems, and technology that solve real-world problems.</p>
 

@@ -10,15 +10,20 @@
   <li> <a href="https://usepainstackai.com/">Painstack.ai</a> — AI-powered platform that helps founders validate business ideas and turn them into actionable startup plans. </li>
 </ul>
 
-<h3>Tech Stack</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,python,react,reactnative,nextjs,nodejs,express,nestjs,php,laravel,cs,dotnet,elixir,postgres,mysql,sqlite,mongodb,prisma,firebase,azure,docker,git,github,linux&perline=20" height="45" alt="Tech Stack" />
-</p>
-
 <h3>Focus</h3>
 
 <p>Software & AI Engineering · System Design · Intelligent Automation · Product Development </p> 
+
+<h3>Tech Stack & AI Engineering</h3>
+
+<p>
+  <strong>AI Automation, LLMs & Agents</strong><br/>
+  LangChain · LangGraph · Google ADK · AI Agents · Multi-Agent Systems · RAG · Fine-Tuning · Prompt Engineering · LLM Integration · Agent Orchestration · AI-Powered Pipelines
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,python,react,reactnative,nextjs,nodejs,express,nestjs,php,laravel,cs,dotnet,elixir,postgres,mysql,sqlite,mongodb,figma,prisma,firebase,azure,docker,git,github,linux&perline=20" height="45" alt="Tech Stack" />
+</p>
 
 <p>
   <a href="https://mvfernando.me">Website</a> ·

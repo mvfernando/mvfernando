@@ -13,7 +13,7 @@
 <h3>Tech Stack</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,nodejs,nestjs,php,laravel,cs,dotnet,postgres,mysql,docker,git,github,linux" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,python,react,reactnative,nextjs,nodejs,express,nestjs,php,laravel,cs,dotnet,elixir,postgres,mysql,sqlite,mongodb,prisma,firebase,azure,docker,git,github,linux&perline=20" height="45" alt="Tech Stack" />
 </p>
 
 <h3>Focus</h3>
